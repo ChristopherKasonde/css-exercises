@@ -8,7 +8,8 @@
   background-color: lab(97.14% -21.56 94.48);
 }
 
-.btn {
+.btn1,
+.btn2 {
   font-family: "Times New Roman", Helvetica, Times, sans-serif;
   font-size: 28px;
 }
